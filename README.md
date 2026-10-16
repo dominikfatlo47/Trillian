@@ -227,4 +227,4 @@ Trillian is available as a **full free version** with all features and updates i
 Ready to simplify your communication? **Download Trillian for free today!**
 
 ---
-**Last updated:** 2026-10-15 23:27:05 UTC
+**Last updated:** 2026-10-16 02:21:39 UTC
